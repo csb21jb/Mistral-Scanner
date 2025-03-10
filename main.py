@@ -7,7 +7,7 @@ from io import BytesIO
 from mistralai import Mistral
 
 st.set_page_config(layout="wide", page_title="Mistral OCR App", page_icon="🖥️")
-st.title("Mistral OCR App - Max file size: 10MB")
+st.title("Mistral OCR App")
 
 st.markdown("<h3 style color: white;'>Built by <a href='https://github.com/AIAnytime'>AI Anytime </a></h3>", unsafe_allow_html=True)
 
