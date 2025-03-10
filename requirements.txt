@@ -1,2 +1,5 @@
 streamlit
 mistralai
+fitz
+PyMuPDF
+
