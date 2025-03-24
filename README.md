@@ -6,6 +6,7 @@ Mistral Scanner is a Streamlit-based application that allows users to upload PDF
 
 ---
 
+[streamlit-main-2025-03-23-22-03-90.webm](https://github.com/user-attachments/assets/2d16ff04-e5ba-405c-b2f7-af6819e12132)
 
 ## 🎯 Features
 ✔ Supports **multiple file uploads** (PDF, JPG, PNG)  
@@ -18,7 +19,7 @@ Mistral Scanner is a Streamlit-based application that allows users to upload PDF
 
 ## 🚀 Steps to Install and Run
 
-### 1️⃣ Clone the Repository
+### 1 Clone the Repository
 ```bash
 git clone https://github.com/csb21jb/Mistral-Scanner.git
 cd Mistral-Scanner
@@ -26,7 +27,7 @@ cd Mistral-Scanner
 
 ---
 
-### 2️⃣ Create and Activate a Virtual Environment (Optional but Recommended)
+### 2 Create and Activate a Virtual Environment (Optional but Recommended)
 
 #### **On macOS/Linux**
 ```bash
@@ -51,17 +52,25 @@ venv\Scripts\activate
 
 ---
 
-### 3️⃣ Install Dependencies
+### 3 Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-### 4️⃣ Run the Application
+### 4 Run the Application
 ```bash
 streamlit run main.py
 ```
+
+---
+###  5 Navigate to the Application
+```
+http://localhost:8501/
+```
+---
+###  6 Enter Your MISTRAL API KEY and Upload Documents to Extract Text
 
 ---
 
